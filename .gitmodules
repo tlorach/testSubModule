@@ -1,0 +1,3 @@
+[submodule "dummySubmodule2"]
+	path = dummySubmodule2
+	url = git@github.com:tlorach/dummySubmodule2.git
