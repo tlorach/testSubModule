@@ -6,3 +6,4 @@
 [submodule "dummySubmodule1"]
 	path = dummySubmodule1
 	url = git@github.com:tlorach/dummySubmodule1.git
+	branch = test
