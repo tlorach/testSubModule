@@ -2,4 +2,3 @@
 	path = dummySubmodule2
 	url = git@github.com:tlorach/dummySubmodule2.git
 	branch = test
-
